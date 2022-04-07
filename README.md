@@ -1,4 +1,4 @@
-## Hi, my name is David de Oliveira, actually I am back end development student.
+## Hi, my name is David de Oliveira, I am back end development student.
 <div align="center">
   <a href="https://github.com/devdavidos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdavidos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
